@@ -1,0 +1,121 @@
+4:26:00 CH  [main] 	Initializing Control Panel
+4:26:00 CH  [main] 	Windows Version:  Enterprise  64-bit
+4:26:00 CH  [main] 	XAMPP Version: 7.4.16
+4:26:00 CH  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+4:26:01 CH  [main] 	You are not running with administrator rights! This will work for
+4:26:01 CH  [main] 	most application stuff but whenever you do something with services
+4:26:01 CH  [main] 	there will be a security dialogue or things will break! So think 
+4:26:01 CH  [main] 	about running this application with administrator rights!
+4:26:01 CH  [main] 	XAMPP Installation Directory: "c:\xampp\"
+4:26:01 CH  [main] 	Checking for prerequisites
+4:28:16 CH  [main] 	All prerequisites found
+4:28:16 CH  [main] 	Initializing Modules
+4:28:16 CH  [Apache] 	Problem detected!
+4:28:16 CH  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+4:28:16 CH  [Apache] 	Apache WILL NOT start without the configured ports free!
+4:28:16 CH  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+4:28:16 CH  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+4:28:16 CH  [main] 	Starting Check-Timer
+4:28:16 CH  [main] 	Control Panel Ready
+4:43:19 CH  [main] 	Deinitializing Modules
+4:43:19 CH  [main] 	Deinitializing Control Panel
+
+4:25:26 CH  [main] 	Initializing Control Panel
+4:25:26 CH  [main] 	Windows Version:  Enterprise  64-bit
+4:25:26 CH  [main] 	XAMPP Version: 7.4.16
+4:25:26 CH  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+4:25:26 CH  [main] 	You are not running with administrator rights! This will work for
+4:25:26 CH  [main] 	most application stuff but whenever you do something with services
+4:25:26 CH  [main] 	there will be a security dialogue or things will break! So think 
+4:25:26 CH  [main] 	about running this application with administrator rights!
+4:25:26 CH  [main] 	XAMPP Installation Directory: "c:\xampp\"
+4:25:27 CH  [main] 	Checking for prerequisites
+4:28:16 CH  [main] 	All prerequisites found
+4:28:16 CH  [main] 	Initializing Modules
+4:28:16 CH  [Apache] 	Problem detected!
+4:28:16 CH  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+4:28:16 CH  [Apache] 	Apache WILL NOT start without the configured ports free!
+4:28:16 CH  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+4:28:16 CH  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+4:28:16 CH  [main] 	Starting Check-Timer
+4:28:16 CH  [main] 	Control Panel Ready
+4:43:19 CH  [main] 	Deinitializing Modules
+4:43:19 CH  [main] 	Deinitializing Control Panel
+
+4:26:00 CH  [main] 	Initializing Control Panel
+4:26:00 CH  [main] 	Windows Version:  Enterprise  64-bit
+4:26:00 CH  [main] 	XAMPP Version: 7.4.16
+4:26:00 CH  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+4:26:00 CH  [main] 	You are not running with administrator rights! This will work for
+4:26:00 CH  [main] 	most application stuff but whenever you do something with services
+4:26:00 CH  [main] 	there will be a security dialogue or things will break! So think 
+4:26:00 CH  [main] 	about running this application with administrator rights!
+4:26:00 CH  [main] 	XAMPP Installation Directory: "c:\xampp\"
+4:26:01 CH  [main] 	Checking for prerequisites
+4:28:16 CH  [main] 	All prerequisites found
+4:28:16 CH  [main] 	Initializing Modules
+4:28:16 CH  [Apache] 	Problem detected!
+4:28:16 CH  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+4:28:16 CH  [Apache] 	Apache WILL NOT start without the configured ports free!
+4:28:16 CH  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+4:28:16 CH  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+4:28:16 CH  [main] 	Starting Check-Timer
+4:28:16 CH  [main] 	Control Panel Ready
+4:43:19 CH  [main] 	Deinitializing Modules
+4:43:19 CH  [main] 	Deinitializing Control Panel
+
+10:13:58 SA  [main] 	Initializing Control Panel
+10:13:58 SA  [main] 	Windows Version:  Enterprise  64-bit
+10:13:58 SA  [main] 	XAMPP Version: 7.4.16
+10:13:58 SA  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+10:13:58 SA  [main] 	You are not running with administrator rights! This will work for
+10:13:58 SA  [main] 	most application stuff but whenever you do something with services
+10:13:58 SA  [main] 	there will be a security dialogue or things will break! So think 
+10:13:58 SA  [main] 	about running this application with administrator rights!
+10:13:58 SA  [main] 	XAMPP Installation Directory: "c:\xampp\"
+10:13:58 SA  [main] 	Checking for prerequisites
+10:16:06 SA  [main] 	All prerequisites found
+10:16:06 SA  [main] 	Initializing Modules
+10:16:06 SA  [Apache] 	Problem detected!
+10:16:06 SA  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+10:16:06 SA  [Apache] 	Apache WILL NOT start without the configured ports free!
+10:16:06 SA  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+10:16:06 SA  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+10:16:07 SA  [main] 	Starting Check-Timer
+10:16:07 SA  [main] 	Control Panel Ready
+10:19:47 SA  [Apache] 	Status change detected: running
+10:19:49 SA  [mysql] 	Status change detected: running
+11:04:37 SA  [main] 	Deinitializing Modules
+11:04:37 SA  [main] 	Deinitializing Control Panel
+
+8:51:29 SA  [main] 	Initializing Control Panel
+8:51:30 SA  [main] 	Windows Version:  Enterprise  64-bit
+8:51:31 SA  [main] 	XAMPP Version: 7.4.16
+8:51:31 SA  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+8:51:31 SA  [main] 	You are not running with administrator rights! This will work for
+8:51:31 SA  [main] 	most application stuff but whenever you do something with services
+8:51:31 SA  [main] 	there will be a security dialogue or things will break! So think 
+8:51:31 SA  [main] 	about running this application with administrator rights!
+8:51:31 SA  [main] 	XAMPP Installation Directory: "c:\xampp\"
+8:51:31 SA  [main] 	Checking for prerequisites
+8:53:45 SA  [main] 	All prerequisites found
+8:53:45 SA  [main] 	Initializing Modules
+8:53:46 SA  [Apache] 	Problem detected!
+8:53:46 SA  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+8:53:46 SA  [Apache] 	Apache WILL NOT start without the configured ports free!
+8:53:46 SA  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+8:53:46 SA  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+8:53:46 SA  [main] 	Starting Check-Timer
+8:53:46 SA  [main] 	Control Panel Ready
+8:53:55 SA  [Apache] 	Problem detected!
+8:53:55 SA  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+8:53:55 SA  [Apache] 	Apache WILL NOT start without the configured ports free!
+8:53:55 SA  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+8:53:55 SA  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+8:53:55 SA  [Apache] 	Attempting to start Apache app...
+8:53:57 SA  [Apache] 	Status change detected: running
+8:53:58 SA  [mysql] 	Attempting to start MySQL app...
+8:53:58 SA  [mysql] 	Status change detected: running
+11:14:59 SA  [main] 	Deinitializing Modules
+11:15:00 SA  [main] 	Deinitializing Control Panel
+
